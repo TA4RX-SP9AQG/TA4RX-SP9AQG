@@ -17,6 +17,7 @@ I build free tools for fellow amateurs: logging, APRS, rig control and the web.
 
 | | Project | What it does |
 |:-:|---|---|
+| 📻 | **[TrackBridge](https://github.com/TA4RX-SP9AQG/TrackBridge)** | Free Android companion app for LoRa APRS trackers. APRS messages and beacons over Bluetooth LE (KISS). *(Dart/Flutter)* |
 | 📱 | **[Wavelog-Mobile](https://github.com/TA4RX-SP9AQG/Wavelog-Mobile)** | Android app for [Wavelog](https://github.com/wavelog/wavelog). Log QSOs on the go, run contests, chase live DX spots, track DXCC and band/mode stats. *(Dart)* |
 | 🔌 | **[WaveRig](https://github.com/TA4RX-SP9AQG/WaveRig)** | ESP32-S3 BLE bridge that connects ICOM CI-V and Yaesu/Kenwood CAT radios to Wavelog Mobile over Bluetooth. |
 | 🧩 | **[Wavelog-Last-QSOs-Widget](https://github.com/TA4RX-SP9AQG/Wavelog-Last-QSOs-Widget)** | Embeddable widget that shows your latest QSOs on any website. *(HTML)* |
